@@ -1,0 +1,1422 @@
+{
+  "shuffle_seed_count": 0,
+  "metric_purchased_purges": 1,
+  "metric_path_per_floor": [
+    "M",
+    "?",
+    "$",
+    "?",
+    "?",
+    "R",
+    "M",
+    "R",
+    "T",
+    "R",
+    "?",
+    "E",
+    "M",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "M",
+    "$",
+    "E",
+    "R",
+    "E",
+    "T",
+    "R",
+    "?",
+    "R",
+    "$",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "$",
+    "?",
+    "M",
+    "M",
+    "E",
+    "M",
+    "M",
+    "T",
+    "E",
+    "?",
+    "R",
+    "?",
+    "$",
+    "R",
+    "B"
+  ],
+  "monster_list": [
+    "Writhing Mass",
+    "Sphere and 2 Shapes",
+    "4 Shapes",
+    "Transient",
+    "Maw",
+    "4 Shapes",
+    "Spire Growth",
+    "Maw",
+    "Writhing Mass"
+  ],
+  "metric_potions_floor_spawned": [
+    1,
+    14,
+    20,
+    21,
+    23,
+    35,
+    38,
+    39,
+    40,
+    41,
+    42,
+    44,
+    45
+  ],
+  "daily_mods": [],
+  "metric_campfire_choices": [
+    {
+      "data": "Dualcast",
+      "floor": 6,
+      "key": "SMITH"
+    },
+    {
+      "data": "Redo",
+      "floor": 8,
+      "key": "SMITH"
+    },
+    {
+      "data": "Zap",
+      "floor": 10,
+      "key": "SMITH"
+    },
+    {
+      "data": "Defragment",
+      "floor": 15,
+      "key": "SMITH"
+    },
+    {
+      "floor": 24,
+      "key": "REST"
+    },
+    {
+      "data": "Defragment",
+      "floor": 27,
+      "key": "SMITH"
+    },
+    {
+      "floor": 29,
+      "key": "REST"
+    },
+    {
+      "data": "Capacitor",
+      "floor": 32,
+      "key": "SMITH"
+    },
+    {
+      "data": "Blizzard",
+      "floor": 46,
+      "key": "SMITH"
+    },
+    {
+      "data": "Biased Cognition",
+      "floor": 49,
+      "key": "SMITH"
+    }
+  ],
+  "is_ascension_mode": true,
+  "metric_items_purchased": [
+    "Capacitor",
+    "Blizzard",
+    "Defragment",
+    "DollysMirror",
+    "Redo+1",
+    "Block Potion",
+    "Ancient Potion",
+    "ClockworkSouvenir",
+    "Chill+1",
+    "Medical Kit",
+    "Fission+1",
+    "Reinforced Body+1",
+    "Block Potion"
+  ],
+  "is_endless_mode": false,
+  "merchant_seed_count": 90,
+  "floor_num": 51,
+  "uncommon_relics": [
+    "Blue Candle",
+    "Ornamental Fan",
+    "Molten Egg 2",
+    "Gremlin Horn",
+    "Kunai",
+    "The Courier",
+    "Cables",
+    "Letter Opener",
+    "Matryoshka",
+    "Sundial",
+    "Bottled Flame",
+    "Bottled Lightning",
+    "Frozen Egg 2",
+    "Shuriken",
+    "Mummified Hand",
+    "Mercury Hourglass",
+    "Bottled Tornado"
+  ],
+  "post_combat": false,
+  "combo": false,
+  "relics": [
+    "Cracked Core",
+    "Golden Idol",
+    "Question Card",
+    "Pantograph",
+    "Philosopher\u0027s Stone",
+    "DollysMirror",
+    "Toxic Egg 2",
+    "Pen Nib",
+    "FossilizedHelix",
+    "White Beast Statue",
+    "ClockworkSouvenir",
+    "Whetstone",
+    "Meat on the Bone",
+    "Old Coin",
+    "Girya",
+    "Medical Kit"
+  ],
+  "rare_relics": [
+    "Thread and Needle",
+    "Peace Pipe",
+    "Pocketwatch",
+    "Ginger",
+    "Nunchaku",
+    "Ice Cream",
+    "Bird Faced Urn",
+    "Mango",
+    "StoneCalendar",
+    "Turnip",
+    "Torii",
+    "Emotion Chip",
+    "Dead Branch",
+    "WingedGreaves",
+    "Prayer Wheel"
+  ],
+  "level_name": "TheBeyond",
+  "metric_campfire_rested": 2,
+  "max_orbs": 3,
+  "boss": "Donu and Deca",
+  "seed": 3321794647166408494,
+  "metric_current_hp_per_floor": [
+    50,
+    50,
+    50,
+    50,
+    39,
+    39,
+    37,
+    37,
+    37,
+    37,
+    69,
+    58,
+    58,
+    58,
+    58,
+    69,
+    69,
+    46,
+    46,
+    41,
+    41,
+    41,
+    15,
+    35,
+    35,
+    35,
+    35,
+    29,
+    49,
+    49,
+    49,
+    49,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    60,
+    52,
+    52,
+    52,
+    49,
+    49,
+    69,
+    69,
+    69,
+    69
+  ],
+  "current_health": 69,
+  "common_relics": [
+    "MawBank",
+    "Bronze Scales",
+    "Potion Belt",
+    "Omamori",
+    "Bag of Preparation",
+    "Blood Vial",
+    "Ancient Tea Set",
+    "Bag of Marbles",
+    "Regal Pillow",
+    "Smiling Mask",
+    "Lantern",
+    "Orichalcum",
+    "Art of War",
+    "Boot",
+    "PreservedInsect",
+    "Tiny Chest",
+    "War Paint"
+  ],
+  "monsters_killed": 13,
+  "gold": 76,
+  "neow_bonus": "TRANSFORM_TWO_CARDS",
+  "card_random_seed_count": 0,
+  "card_seed_count": 651,
+  "is_daily": false,
+  "metric_campfire_rituals": 0,
+  "metric_card_choices": [
+    {
+      "not_picked": [
+        "Melter",
+        "Skim"
+      ],
+      "picked": "Redo",
+      "floor": 1
+    },
+    {
+      "not_picked": [
+        "Stack",
+        "Barrage"
+      ],
+      "picked": "Ball Lightning",
+      "floor": 7
+    },
+    {
+      "not_picked": [
+        "Hologram",
+        "Stack",
+        "Static Discharge"
+      ],
+      "picked": "Go for the Eyes",
+      "floor": 12
+    },
+    {
+      "not_picked": [
+        "Double Energy",
+        "Cold Snap",
+        "Undo"
+      ],
+      "picked": "Defragment",
+      "floor": 13
+    },
+    {
+      "not_picked": [
+        "Sweeping Beam",
+        "Double Energy",
+        "Blizzard"
+      ],
+      "picked": "Compile Driver",
+      "floor": 14
+    },
+    {
+      "not_picked": [
+        "All For One",
+        "Machine Learning",
+        "Amplify"
+      ],
+      "picked": "Biased Cognition",
+      "floor": 16
+    },
+    {
+      "not_picked": [
+        "Steam",
+        "Beam Cell+1",
+        "Barrage"
+      ],
+      "picked": "Chill+1",
+      "floor": 18
+    },
+    {
+      "not_picked": [
+        "Compile Driver",
+        "Auto Shields",
+        "Go for the Eyes"
+      ],
+      "picked": "Conserve Battery+1",
+      "floor": 20
+    },
+    {
+      "not_picked": [
+        "Coolheaded",
+        "Rebound",
+        "Rainbow"
+      ],
+      "picked": "Capacitor",
+      "floor": 21
+    },
+    {
+      "not_picked": [
+        "Thunder Strike",
+        "Electrodynamics",
+        "Go for the Eyes"
+      ],
+      "picked": "Hologram",
+      "floor": 23
+    },
+    {
+      "not_picked": [
+        "Compile Driver",
+        "Doom and Gloom+1",
+        "Capacitor"
+      ],
+      "picked": "Chaos+1",
+      "floor": 25
+    },
+    {
+      "not_picked": [
+        "Steam+1",
+        "Sweeping Beam",
+        "Ball Lightning"
+      ],
+      "picked": "Sunder+1",
+      "floor": 31
+    },
+    {
+      "not_picked": [
+        "Biased Cognition",
+        "Creative AI",
+        "Rainbow+1"
+      ],
+      "picked": "Machine Learning",
+      "floor": 33
+    },
+    {
+      "not_picked": [
+        "Leap+1",
+        "Compile Driver+1",
+        "Gash+1"
+      ],
+      "picked": "Redo+1",
+      "floor": 35
+    },
+    {
+      "not_picked": [
+        "Ball Lightning+1",
+        "Doom and Gloom+1",
+        "Reinforced Body+1"
+      ],
+      "picked": "Hologram+1",
+      "floor": 38
+    },
+    {
+      "not_picked": [
+        "Skim+1",
+        "Chaos+1",
+        "Loop+1"
+      ],
+      "picked": "Conserve Battery+1",
+      "floor": 39
+    },
+    {
+      "not_picked": [
+        "Glacier+1",
+        "Hologram+1",
+        "Ball Lightning"
+      ],
+      "picked": "Core Surge",
+      "floor": 40
+    },
+    {
+      "not_picked": [
+        "Loop",
+        "Steam+1",
+        "Sweeping Beam"
+      ],
+      "picked": "Conserve Battery+1",
+      "floor": 41
+    },
+    {
+      "not_picked": [
+        "Streamline",
+        "Consume+1",
+        "Auto Shields+1"
+      ],
+      "picked": "Conserve Battery+1",
+      "floor": 42
+    },
+    {
+      "not_picked": [
+        "Steam+1",
+        "Coolheaded+1",
+        "Streamline+1"
+      ],
+      "picked": "White Noise+1",
+      "floor": 44
+    },
+    {
+      "not_picked": [
+        "Darkness+1",
+        "Hologram+1",
+        "Doom and Gloom+1"
+      ],
+      "picked": "Consume+1",
+      "floor": 45
+    }
+  ],
+  "metric_potions_obtained": [
+    {
+      "floor": 1,
+      "key": "Fire Potion"
+    },
+    {
+      "floor": 14,
+      "key": "EntropicBrew"
+    },
+    {
+      "floor": 20,
+      "key": "EssenceOfSteel"
+    },
+    {
+      "floor": 21,
+      "key": "Weak Potion"
+    },
+    {
+      "floor": 23,
+      "key": "EssenceOfSteel"
+    },
+    {
+      "floor": 35,
+      "key": "SpeedPotion"
+    },
+    {
+      "floor": 38,
+      "key": "FocusPotion"
+    },
+    {
+      "floor": 39,
+      "key": "Energy Potion"
+    },
+    {
+      "floor": 40,
+      "key": "Dexterity Potion"
+    },
+    {
+      "floor": 41,
+      "key": "Explosive Potion"
+    },
+    {
+      "floor": 42,
+      "key": "Explosive Potion"
+    },
+    {
+      "floor": 44,
+      "key": "Dexterity Potion"
+    },
+    {
+      "floor": 45,
+      "key": "FairyPotion"
+    }
+  ],
+  "is_final_act_on": false,
+  "treasure_seed_count": 26,
+  "metric_event_choices": [
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Lose Max HP",
+      "damage_taken": 0,
+      "relics_obtained": [
+        "Golden Idol"
+      ],
+      "max_hp_gain": 0,
+      "max_hp_loss": 6,
+      "event_name": "Golden Idol",
+      "floor": 2,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Leave",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "The Cleric",
+      "floor": 4,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 75,
+      "player_choice": "Gather Gold",
+      "damage_taken": 11,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "World of Goop",
+      "floor": 5,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": [
+        "Blizzard"
+      ],
+      "damage_healed": 32,
+      "gold_gain": 0,
+      "player_choice": "Offered Uncommon",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Bonfire Elementals",
+      "floor": 11,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Ignored",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Ghosts",
+      "floor": 19,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 75,
+      "player_choice": "Touch",
+      "damage_taken": 6,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "FaceTrader",
+      "floor": 28,
+      "gold_loss": 0
+    },
+    {
+      "cards_removed": [
+        "Machine Learning"
+      ],
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Removed Power",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Falling",
+      "floor": 37,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 0,
+      "gold_gain": 0,
+      "player_choice": "Fight",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "Mysterious Sphere",
+      "floor": 45,
+      "gold_loss": 0
+    },
+    {
+      "damage_healed": 20,
+      "gold_gain": 0,
+      "player_choice": "Heal",
+      "damage_taken": 0,
+      "max_hp_gain": 0,
+      "max_hp_loss": 0,
+      "event_name": "MindBloom",
+      "floor": 47,
+      "gold_loss": 0,
+      "cards_obtained": [
+        "Doubt"
+      ]
+    }
+  ],
+  "current_room": "com.megacrit.cardcrawl.rooms.VictoryRoom",
+  "has_emerald_key": false,
+  "boss_relics": [
+    "Sozu",
+    "Orrery",
+    "Busted Crown",
+    "Fusion Hammer",
+    "Runic Dome",
+    "FrozenCore",
+    "Calling Bell",
+    "Eternal Feather",
+    "Black Star",
+    "Cursed Key",
+    "Astrolabe",
+    "Nuclear Battery",
+    "Runic Pyramid",
+    "Coffee Dripper",
+    "Velvet Choker",
+    "Pandora\u0027s Box",
+    "Tiny House",
+    "Inserter"
+  ],
+  "blue": 0,
+  "path_y": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "path_x": [
+    3,
+    4,
+    4,
+    3,
+    2,
+    2,
+    1,
+    2,
+    3,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2
+  ],
+  "metric_item_purchase_floors": [
+    3,
+    3,
+    22,
+    22,
+    30,
+    30,
+    30,
+    36,
+    36,
+    48,
+    48,
+    48,
+    48
+  ],
+  "gold_gained": 1380,
+  "ascension_level": 2,
+  "one_time_event_list": [
+    "Accursed Blacksmith",
+    "Designer",
+    "Duplicator",
+    "Fountain of Cleansing",
+    "Knowing Skull",
+    "Lab",
+    "N\u0027loth",
+    "SecretPortal",
+    "The Joust",
+    "WeMeetAgain",
+    "The Woman in Blue"
+  ],
+  "card_random_seed_randomizer": -4,
+  "metric_campfire_meditates": 0,
+  "perfect": 3,
+  "mugged": false,
+  "metric_build_version": "2018-12-20",
+  "event_list": [
+    "The Moai Head",
+    "SensoryStone",
+    "Tomb of Lord Red Mask",
+    "Winding Halls"
+  ],
+  "elite_monster_list": [
+    "Nemesis",
+    "Reptomancer",
+    "Nemesis",
+    "Reptomancer",
+    "Giant Head",
+    "Nemesis",
+    "Giant Head",
+    "Reptomancer"
+  ],
+  "metric_seed_played": "3321794647166408494",
+  "red": 4,
+  "elites3_killed": 2,
+  "relic_counters": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    5,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    0,
+    -1
+  ],
+  "elites2_killed": 2,
+  "metric_items_purged_floors": [
+    48
+  ],
+  "potion_seed_count": 52,
+  "blights": [],
+  "elites1_killed": 1,
+  "overkill": false,
+  "neow_cost": "PERCENT_DAMAGE",
+  "metric_floor_reached": 51,
+  "champions": 3,
+  "smoked": false,
+  "spirit_count": 3,
+  "special_seed": 0,
+  "potion_chance": -80,
+  "shop_relics": [
+    "Toolbox",
+    "HandDrill",
+    "Toy Ornithopter",
+    "PrismaticShard",
+    "MealTicket",
+    "Membership Card",
+    "Cauldron",
+    "OrangePellets",
+    "Frozen Eye",
+    "Chemical X",
+    "Runic Capacitor",
+    "Sling",
+    "TheAbacus"
+  ],
+  "custom_mods": [],
+  "metric_path_taken": [
+    "M",
+    "?",
+    "$",
+    "?",
+    "?",
+    "R",
+    "M",
+    "R",
+    "T",
+    "R",
+    "?",
+    "E",
+    "?",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "M",
+    "M",
+    "$",
+    "E",
+    "R",
+    "E",
+    "T",
+    "R",
+    "?",
+    "R",
+    "$",
+    "?",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "?",
+    "M",
+    "M",
+    "E",
+    "M",
+    "M",
+    "T",
+    "E",
+    "?",
+    "R",
+    "?",
+    "$",
+    "R",
+    "BOSS"
+  ],
+  "name": "Marge",
+  "has_ruby_key": false,
+  "metric_playtime": 3294,
+  "has_sapphire_key": false,
+  "is_trial": false,
+  "metric_max_hp_per_floor": [
+    75,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69,
+    69
+  ],
+  "save_date": 1545497197431,
+  "cards": [
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Strike_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Zap"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Dualcast"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Cold Snap"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Redo"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Capacitor"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Blizzard"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Ball Lightning"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Go for the Eyes"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Defragment"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Compile Driver"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Biased Cognition"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Chill"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Conserve Battery"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Capacitor"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Defragment"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Defragment"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Hologram"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Chaos"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Redo"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Sunder"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Redo"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Chill"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Hologram"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Conserve Battery"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Core Surge"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Conserve Battery"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Conserve Battery"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "White Noise"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Consume"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Fission"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Reinforced Body"
+    }
+  ],
+  "endless_increments": [],
+  "metric_items_purged": [
+    "Doubt"
+  ],
+  "purgeCost": 100,
+  "room_x": -1,
+  "blight_counters": [],
+  "room_y": 15,
+  "metric_gold_per_floor": [
+    113,
+    113,
+    8,
+    8,
+    83,
+    83,
+    96,
+    96,
+    167,
+    167,
+    167,
+    208,
+    228,
+    241,
+    241,
+    371,
+    371,
+    395,
+    395,
+    411,
+    434,
+    160,
+    196,
+    196,
+    236,
+    236,
+    236,
+    311,
+    311,
+    139,
+    153,
+    153,
+    272,
+    272,
+    293,
+    27,
+    27,
+    50,
+    70,
+    105,
+    125,
+    140,
+    214,
+    558,
+    617,
+    617,
+    617,
+    76,
+    76,
+    76
+  ],
+  "metric_potions_floor_usage": [
+    12,
+    16,
+    16,
+    16,
+    21,
+    23,
+    25,
+    25,
+    33,
+    35,
+    41,
+    41,
+    45,
+    50
+  ],
+  "boss_list": [
+    "Awakened One",
+    "Time Eater"
+  ],
+  "ai_seed_count": 0,
+  "event_chances": [
+    0.4,
+    0.5,
+    0.12,
+    0.099999994
+  ],
+  "metric_boss_relics": [
+    {
+      "not_picked": [
+        "Lizard Tail",
+        "Ectoplasm"
+      ],
+      "picked": "Philosopher\u0027s Stone"
+    },
+    {
+      "not_picked": [
+        "Snecko Eye",
+        "Empty Cage"
+      ],
+      "picked": "White Beast Statue"
+    }
+  ],
+  "relic_seed_count": 10,
+  "act_num": 3,
+  "metric_damage_taken": [
+    {
+      "damage": 4,
+      "enemies": "2 Louse",
+      "floor": 1,
+      "turns": 2
+    },
+    {
+      "damage": 2,
+      "enemies": "Jaw Worm",
+      "floor": 7,
+      "turns": 4
+    },
+    {
+      "damage": 11,
+      "enemies": "3 Sentries",
+      "floor": 12,
+      "turns": 5
+    },
+    {
+      "damage": 0,
+      "enemies": "Small Slimes",
+      "floor": 13,
+      "turns": 3
+    },
+    {
+      "damage": 0,
+      "enemies": "Exordium Thugs",
+      "floor": 14,
+      "turns": 4
+    },
+    {
+      "damage": 0,
+      "enemies": "Slime Boss",
+      "floor": 16,
+      "turns": 5
+    },
+    {
+      "damage": 23,
+      "enemies": "2 Thieves",
+      "floor": 18,
+      "turns": 3
+    },
+    {
+      "damage": 5,
+      "enemies": "Chosen",
+      "floor": 20,
+      "turns": 3
+    },
+    {
+      "damage": 0,
+      "enemies": "Shelled Parasite and Fungi",
+      "floor": 21,
+      "turns": 5
+    },
+    {
+      "damage": 26,
+      "enemies": "Gremlin Leader",
+      "floor": 23,
+      "turns": 7
+    },
+    {
+      "damage": 0,
+      "enemies": "Book of Stabbing",
+      "floor": 25,
+      "turns": 5
+    },
+    {
+      "damage": 0,
+      "enemies": "3 Cultists",
+      "floor": 31,
+      "turns": 6
+    },
+    {
+      "damage": 0,
+      "enemies": "Automaton",
+      "floor": 33,
+      "turns": 9
+    },
+    {
+      "damage": 0,
+      "enemies": "Orb Walker",
+      "floor": 35,
+      "turns": 3
+    },
+    {
+      "damage": 0,
+      "enemies": "3 Shapes",
+      "floor": 38,
+      "turns": 5
+    },
+    {
+      "damage": 0,
+      "enemies": "Maw",
+      "floor": 39,
+      "turns": 7
+    },
+    {
+      "damage": 0,
+      "enemies": "Giant Head",
+      "floor": 40,
+      "turns": 9
+    },
+    {
+      "damage": 9,
+      "enemies": "Jaw Worm Horde",
+      "floor": 41,
+      "turns": 5
+    },
+    {
+      "damage": 8,
+      "enemies": "3 Darklings",
+      "floor": 42,
+      "turns": 6
+    },
+    {
+      "damage": 0,
+      "enemies": "Reptomancer",
+      "floor": 44,
+      "turns": 8
+    },
+    {
+      "damage": 3,
+      "enemies": "2 Orb Walkers",
+      "floor": 45,
+      "turns": 7
+    },
+    {
+      "damage": 0,
+      "enemies": "Donu and Deca",
+      "floor": 50,
+      "turns": 11
+    }
+  ],
+  "green": 0,
+  "mystery_machine": 12,
+  "metric_campfire_upgraded": 8,
+  "potion_slots": 3,
+  "chose_neow_reward": false,
+  "event_seed_count": 12,
+  "metric_relics_obtained": [
+    {
+      "floor": 9,
+      "key": "Question Card"
+    },
+    {
+      "floor": 12,
+      "key": "Pantograph"
+    },
+    {
+      "floor": 23,
+      "key": "Toxic Egg 2"
+    },
+    {
+      "floor": 25,
+      "key": "Pen Nib"
+    },
+    {
+      "floor": 26,
+      "key": "FossilizedHelix"
+    },
+    {
+      "floor": 40,
+      "key": "Whetstone"
+    },
+    {
+      "floor": 43,
+      "key": "Meat on the Bone"
+    },
+    {
+      "floor": 44,
+      "key": "Old Coin"
+    },
+    {
+      "floor": 45,
+      "key": "Girya"
+    }
+  ],
+  "daily_date": 0,
+  "obtained_cards": {
+    "Chaos": 1,
+    "Hologram": 2,
+    "Ball Lightning": 1,
+    "Sunder": 1,
+    "Chill": 2,
+    "Go for the Eyes": 1,
+    "Machine Learning": 1,
+    "Reinforced Body": 1,
+    "Core Surge": 1,
+    "Fission": 1,
+    "Consume": 1,
+    "Defragment": 3,
+    "Redo": 3,
+    "Conserve Battery": 4,
+    "Biased Cognition": 1,
+    "White Noise": 1,
+    "Cold Snap": 1,
+    "Capacitor": 2,
+    "Compile Driver": 1,
+    "Blizzard": 2
+  },
+  "play_time": 3294,
+  "hand_size": 5,
+  "max_health": 69,
+  "monster_seed_count": 107,
+  "potions": [
+    "Block Potion",
+    "Explosive Potion",
+    "Potion Slot"
+  ]
+}
