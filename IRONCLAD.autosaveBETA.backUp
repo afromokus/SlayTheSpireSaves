@@ -1,176 +1,385 @@
 {
   "shuffle_seed_count": 0,
   "metric_purchased_purges": 0,
-  "metric_path_per_floor": [],
-  "monster_list": [
-    "Cultist",
-    "Jaw Worm",
-    "Small Slimes",
-    "Exordium Wildlife",
-    "3 Louse",
-    "Looter",
-    "Exordium Wildlife",
-    "2 Fungi Beasts",
-    "Red Slaver",
-    "Exordium Thugs",
-    "2 Fungi Beasts",
-    "Large Slime",
-    "Red Slaver",
-    "Blue Slaver",
-    "Exordium Thugs",
-    "Large Slime"
+  "metric_path_per_floor": [
+    "M",
+    "M",
+    "M",
+    "$",
+    "?",
+    "R",
+    "E",
+    "M",
+    "T",
+    "R",
+    "$",
+    "M",
+    "M",
+    "E",
+    "R",
+    "B",
+    null,
+    "M",
+    "M",
+    "M"
   ],
-  "metric_potions_floor_spawned": [],
+  "monster_list": [
+    "3 Cultists",
+    "Shelled Parasite and Fungi",
+    "Cultist and Chosen",
+    "Snake Plant",
+    "3 Cultists",
+    "Centurion and Healer",
+    "Snake Plant",
+    "Shelled Parasite and Fungi",
+    "Snecko",
+    "Chosen and Byrds",
+    "Centurion and Healer",
+    "Shelled Parasite and Fungi"
+  ],
+  "metric_potions_floor_spawned": [
+    1,
+    3,
+    8,
+    16,
+    18
+  ],
   "daily_mods": [],
-  "metric_campfire_choices": [],
+  "metric_campfire_choices": [
+    {
+      "data": "Sword Boomerang",
+      "floor": 6.0,
+      "key": "SMITH"
+    },
+    {
+      "data": "Inflame",
+      "floor": 10.0,
+      "key": "SMITH"
+    },
+    {
+      "data": "Limit Break",
+      "floor": 15.0,
+      "key": "SMITH"
+    }
+  ],
   "is_ascension_mode": true,
-  "metric_items_purchased": [],
+  "metric_items_purchased": [
+    "Strength Potion",
+    "Thunderclap",
+    "Limit Break",
+    "Ghostly Armor"
+  ],
   "is_endless_mode": false,
-  "merchant_seed_count": 0,
-  "floor_num": 0,
+  "merchant_seed_count": 36,
+  "floor_num": 21,
   "uncommon_relics": [
-    "Blue Candle",
-    "Darkstone Periapt",
-    "Molten Egg 2",
-    "Meat on the Bone",
-    "Letter Opener",
-    "Dodecahedron",
-    "Frozen Egg 2",
-    "Bottled Flame",
-    "Gremlin Horn",
-    "Mercury Hourglass",
-    "Ornamental Fan",
-    "Paper Frog",
-    "Shuriken",
     "Self Forming Clay",
-    "Question Card",
-    "Kunai",
-    "Singing Bowl",
-    "Matryoshka",
-    "Pear",
-    "Bottled Tornado",
-    "Mummified Hand",
-    "Pantograph",
-    "The Courier",
-    "Sundial",
+    "Paper Frog",
     "Toxic Egg 2",
-    "Bottled Lightning"
+    "Singing Bowl",
+    "Kunai",
+    "Pear",
+    "The Courier",
+    "Frozen Egg 2",
+    "Meat on the Bone",
+    "Shuriken",
+    "Ornamental Fan",
+    "Sundial",
+    "Pantograph",
+    "Dodecahedron",
+    "Bottled Flame",
+    "Molten Egg 2",
+    "Matryoshka",
+    "Bottled Lightning",
+    "Blue Candle",
+    "Question Card",
+    "Gremlin Horn",
+    "Bottled Tornado",
+    "Darkstone Periapt"
   ],
   "post_combat": false,
   "combo": false,
   "relics": [
-    "Burning Blood"
+    "Burning Blood",
+    "Letter Opener",
+    "PreservedInsect",
+    "Black Star"
   ],
   "rare_relics": [
-    "Turnip",
-    "Dead Branch",
     "Champion Belt",
     "Du-Vu Doll",
-    "Bird Faced Urn",
-    "FossilizedHelix",
-    "Thread and Needle",
-    "Girya",
-    "Charon\u0027s Ashes",
-    "Shovel",
-    "Torii",
-    "WingedGreaves",
-    "Mango",
-    "Incense Burner",
-    "Pocketwatch",
-    "Nunchaku",
-    "Ice Cream",
-    "Ginger",
-    "Gambling Chip",
-    "Old Coin",
-    "Prayer Wheel",
     "StoneCalendar",
-    "Unceasing Top",
-    "Magic Flower",
+    "Incense Burner",
+    "Nunchaku",
+    "Mango",
+    "Ginger",
     "Calipers",
-    "Peace Pipe"
+    "Magic Flower",
+    "Gambling Chip",
+    "Shovel",
+    "Bird Faced Urn",
+    "Thread and Needle",
+    "Old Coin",
+    "Pocketwatch",
+    "Torii",
+    "Turnip",
+    "Unceasing Top",
+    "FossilizedHelix",
+    "WingedGreaves",
+    "Prayer Wheel",
+    "Dead Branch",
+    "Girya",
+    "Ice Cream"
   ],
-  "level_name": "Exordium",
+  "level_name": "TheCity",
   "metric_campfire_rested": 0,
   "max_orbs": 0,
-  "boss": "Hexaghost",
-  "seed": -1270049152110928195,
-  "metric_current_hp_per_floor": [],
-  "current_health": 72,
+  "boss": "Automaton",
+  "seed": 1899473776769188743,
+  "metric_current_hp_per_floor": [
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    58,
+    52,
+    52,
+    52,
+    52,
+    58,
+    62,
+    43,
+    43,
+    20,
+    59,
+    55,
+    38,
+    24
+  ],
+  "current_health": 24,
   "common_relics": [
-    "Smiling Mask",
-    "MawBank",
-    "Tiny Chest",
-    "Bag of Marbles",
-    "Ancient Tea Set",
-    "Boot",
-    "Blood Vial",
-    "Red Skull",
-    "Happy Flower",
-    "Bronze Scales",
-    "Bag of Preparation",
-    "Dream Catcher",
-    "PreservedInsect",
-    "Regal Pillow",
     "War Paint",
-    "Art of War",
+    "Regal Pillow",
+    "Pen Nib",
     "Anchor",
     "Orichalcum",
-    "Juzu Bracelet",
-    "Pen Nib",
-    "Strawberry",
-    "Centennial Puzzle",
-    "Omamori",
-    "Oddly Smooth Stone",
-    "Vajra",
-    "Lantern",
+    "Bag of Marbles",
     "Whetstone",
-    "Potion Belt"
+    "Happy Flower",
+    "Blood Vial",
+    "Ancient Tea Set",
+    "Art of War",
+    "Smiling Mask",
+    "Red Skull",
+    "Potion Belt",
+    "Lantern",
+    "Bronze Scales",
+    "Vajra",
+    "Strawberry",
+    "Boot",
+    "Juzu Bracelet",
+    "Omamori"
   ],
-  "monsters_killed": 0,
-  "gold": 99,
-  "neow_bonus": "",
+  "monsters_killed": 9,
+  "gold": 193,
+  "neow_bonus": "THREE_RARE_CARDS",
   "card_random_seed_count": 0,
-  "card_seed_count": 0,
+  "card_seed_count": 277,
   "is_daily": false,
   "metric_campfire_rituals": 0,
-  "metric_card_choices": [],
-  "metric_potions_obtained": [],
+  "metric_card_choices": [
+    {
+      "not_picked": [
+        "Brutality",
+        "Immolate"
+      ],
+      "picked": "Limit Break",
+      "floor": 0.0
+    },
+    {
+      "not_picked": [
+        "Burning Pact",
+        "Perfected Strike"
+      ],
+      "picked": "Twin Strike",
+      "floor": 1.0
+    },
+    {
+      "not_picked": [
+        "Sever Soul",
+        "Headbutt"
+      ],
+      "picked": "Intimidate",
+      "floor": 2.0
+    },
+    {
+      "not_picked": [
+        "True Grit",
+        "Corruption"
+      ],
+      "picked": "Sword Boomerang",
+      "floor": 3.0
+    },
+    {
+      "not_picked": [
+        "Clash",
+        "Headbutt"
+      ],
+      "picked": "Iron Wave",
+      "floor": 7.0
+    },
+    {
+      "not_picked": [
+        "Wild Strike",
+        "Searing Blow"
+      ],
+      "picked": "Inflame",
+      "floor": 8.0
+    },
+    {
+      "not_picked": [
+        "Spot Weakness",
+        "Body Slam",
+        "Power Through"
+      ],
+      "picked": "SKIP",
+      "floor": 12.0
+    },
+    {
+      "not_picked": [
+        "Bludgeon",
+        "Dual Wield"
+      ],
+      "picked": "Shrug It Off",
+      "floor": 13.0
+    },
+    {
+      "not_picked": [
+        "Bloodletting",
+        "Pommel Strike"
+      ],
+      "picked": "Ghostly Armor",
+      "floor": 14.0
+    },
+    {
+      "not_picked": [
+        "Barricade",
+        "Juggernaut"
+      ],
+      "picked": "Limit Break",
+      "floor": 16.0
+    },
+    {
+      "not_picked": [
+        "Havoc",
+        "Corruption"
+      ],
+      "picked": "Rage",
+      "floor": 18
+    },
+    {
+      "not_picked": [
+        "Perfected Strike",
+        "Havoc+1"
+      ],
+      "picked": "Flex",
+      "floor": 19
+    },
+    {
+      "not_picked": [
+        "Clash",
+        "Wild Strike"
+      ],
+      "picked": "Shrug It Off",
+      "floor": 20
+    }
+  ],
+  "metric_potions_obtained": [
+    {
+      "floor": 1.0,
+      "key": "FairyPotion"
+    },
+    {
+      "floor": 3.0,
+      "key": "Weak Potion"
+    },
+    {
+      "floor": 8.0,
+      "key": "SteroidPotion"
+    },
+    {
+      "floor": 16.0,
+      "key": "Block Potion"
+    },
+    {
+      "floor": 18,
+      "key": "SteroidPotion"
+    }
+  ],
   "is_final_act_on": true,
-  "treasure_seed_count": 0,
-  "metric_event_choices": [],
-  "current_room": "com.megacrit.cardcrawl.rooms.MonsterRoomBoss",
-  "has_emerald_key": false,
+  "treasure_seed_count": 14,
+  "metric_event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Upgrade Shrine",
+      "player_choice": "Upgraded",
+      "floor": 5.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_upgraded": [
+        "Limit Break"
+      ]
+    }
+  ],
+  "current_room": "com.megacrit.cardcrawl.rooms.EventRoom",
+  "has_emerald_key": true,
   "boss_relics": [
-    "Coffee Dripper",
-    "Runic Cube",
-    "Runic Pyramid",
-    "Busted Crown",
-    "Black Star",
-    "Orrery",
-    "Sozu",
-    "Philosopher\u0027s Stone",
-    "Empty Cage",
-    "Velvet Choker",
-    "Calling Bell",
-    "Runic Dome",
-    "Black Blood",
-    "Mark of Pain",
+    "Tiny House",
+    "Snecko Eye",
+    "White Beast Statue",
     "Cursed Key",
     "Astrolabe",
-    "White Beast Statue",
-    "Snecko Eye",
-    "Pandora\u0027s Box",
-    "Eternal Feather",
     "Lizard Tail",
+    "Orrery",
+    "Busted Crown",
     "Fusion Hammer",
-    "Ectoplasm",
-    "Tiny House"
+    "Runic Dome",
+    "Coffee Dripper",
+    "Sozu",
+    "Mark of Pain",
+    "Velvet Choker",
+    "Runic Pyramid",
+    "Philosopher\u0027s Stone",
+    "Calling Bell",
+    "Pandora\u0027s Box",
+    "Black Blood",
+    "Eternal Feather"
   ],
   "blue": 0,
-  "path_y": [],
-  "path_x": [],
-  "metric_item_purchase_floors": [],
-  "gold_gained": 0,
+  "path_y": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "path_x": [
+    0,
+    1,
+    2,
+    1
+  ],
+  "metric_item_purchase_floors": [
+    4,
+    4,
+    11,
+    11
+  ],
+  "gold_gained": 383,
   "ascension_level": 9,
   "one_time_event_list": [
     "Accursed Blacksmith",
@@ -187,84 +396,129 @@
     "WeMeetAgain",
     "The Woman in Blue"
   ],
-  "card_random_seed_randomizer": 5,
+  "card_random_seed_randomizer": -2,
   "metric_campfire_meditates": 0,
   "perfect": 0,
   "mugged": false,
-  "metric_build_version": "2018-12-25",
+  "metric_build_version": "2018-12-12",
   "event_list": [
-    "Big Fish",
-    "The Cleric",
-    "Dead Adventurer",
-    "Golden Idol",
-    "Golden Wing",
-    "World of Goop",
-    "Liars Game",
-    "Living Wall",
-    "Mushrooms",
-    "Scrap Ooze",
-    "Shining Light"
+    "Addict",
+    "Back to Basics",
+    "Beggar",
+    "Colosseum",
+    "Cursed Tome",
+    "Drug Dealer",
+    "Forgotten Altar",
+    "Ghosts",
+    "Masked Bandits",
+    "Nest",
+    "The Library",
+    "The Mausoleum",
+    "Vampires"
   ],
   "elite_monster_list": [
-    "Lagavulin",
-    "3 Sentries",
-    "Lagavulin",
-    "3 Sentries",
-    "Gremlin Nob",
-    "Lagavulin",
-    "Gremlin Nob",
-    "3 Sentries",
-    "Lagavulin",
-    "Gremlin Nob"
+    "Slavers",
+    "Book of Stabbing",
+    "Slavers",
+    "Gremlin Leader",
+    "Slavers",
+    "Gremlin Leader",
+    "Book of Stabbing",
+    "Gremlin Leader",
+    "Book of Stabbing",
+    "Gremlin Leader"
   ],
-  "metric_seed_played": "-1270049152110928195",
+  "metric_seed_played": "1899473776769188743",
   "red": 3,
   "elites3_killed": 0,
   "relic_counters": [
+    -1,
+    -1,
+    -1,
     -1
   ],
   "elites2_killed": 0,
   "metric_items_purged_floors": [],
-  "potion_seed_count": 0,
+  "potion_seed_count": 23,
   "blights": [],
-  "elites1_killed": 0,
+  "elites1_killed": 2,
   "overkill": false,
-  "neow_cost": "",
-  "metric_floor_reached": 0,
+  "neow_cost": "TEN_PERCENT_HP_LOSS",
+  "metric_floor_reached": 21,
   "champions": 0,
   "smoked": false,
   "spirit_count": 1,
   "special_seed": 0,
-  "potion_chance": 0,
+  "potion_chance": 10,
   "shop_relics": [
+    "Brimstone",
     "Cauldron",
-    "MealTicket",
-    "TheAbacus",
-    "OrangePellets",
-    "DollysMirror",
-    "Toolbox",
-    "Lee\u0027s Waffle",
-    "Medical Kit",
-    "Sling",
     "HandDrill",
     "Toy Ornithopter",
-    "ClockworkSouvenir",
-    "Strange Spoon",
-    "Membership Card",
-    "Chemical X",
-    "Frozen Eye",
+    "MealTicket",
     "PrismaticShard",
-    "Brimstone"
+    "Strange Spoon",
+    "Chemical X",
+    "TheAbacus",
+    "ClockworkSouvenir",
+    "Lee\u0027s Waffle",
+    "Frozen Eye",
+    "OrangePellets",
+    "Toolbox",
+    "Medical Kit",
+    "DollysMirror"
   ],
   "custom_mods": [],
-  "metric_path_taken": [],
+  "metric_path_taken": [
+    "M",
+    "M",
+    "M",
+    "$",
+    "?",
+    "R",
+    "E",
+    "M",
+    "T",
+    "R",
+    "?",
+    "M",
+    "M",
+    "E",
+    "R",
+    "BOSS",
+    "M",
+    "M",
+    "M",
+    "?"
+  ],
   "name": "Marge",
   "has_ruby_key": false,
-  "metric_playtime": 0,
-  "has_sapphire_key": false,
+  "metric_playtime": 1250,
+  "has_sapphire_key": true,
   "is_trial": false,
-  "metric_max_hp_per_floor": [],
-  "save_date": 1545954404565,
+  "metric_max_hp_per_floor": [
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72,
+    72
+  ],
+  "save_date": 1547112935302,
   "cards": [
     {
       "upgrades": 0,
@@ -315,20 +569,119 @@
       "upgrades": 0,
       "misc": 0,
       "id": "Bash"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Limit Break"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Twin Strike"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Intimidate"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Sword Boomerang"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Thunderclap"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Iron Wave"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Inflame"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Limit Break"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Ghostly Armor"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Shrug It Off"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Ghostly Armor"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Limit Break"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Rage"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Flex"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Shrug It Off"
     }
   ],
   "endless_increments": [],
   "metric_items_purged": [],
   "purgeCost": 75,
-  "room_x": -1,
+  "room_x": 1,
   "blight_counters": [],
-  "room_y": 15,
-  "metric_gold_per_floor": [],
-  "metric_potions_floor_usage": [],
+  "room_y": 3,
+  "metric_gold_per_floor": [
+    110,
+    125,
+    135,
+    62,
+    62,
+    62,
+    97,
+    114,
+    159,
+    159,
+    3,
+    16,
+    29,
+    54,
+    54,
+    149,
+    149,
+    166,
+    177,
+    193
+  ],
+  "metric_potions_floor_usage": [
+    18,
+    19
+  ],
   "boss_list": [
-    "Hexaghost",
-    "The Guardian",
-    "Slime Boss"
+    "Automaton",
+    "Champ",
+    "Collector"
   ],
   "ai_seed_count": 0,
   "event_chances": [
@@ -337,25 +690,127 @@
     0.03,
     0.02
   ],
-  "metric_boss_relics": [],
-  "relic_seed_count": 5,
-  "act_num": 1,
-  "metric_damage_taken": [],
+  "metric_boss_relics": [
+    {
+      "not_picked": [
+        "Runic Cube",
+        "Empty Cage"
+      ],
+      "picked": "Black Star"
+    }
+  ],
+  "relic_seed_count": 7,
+  "act_num": 2,
+  "metric_damage_taken": [
+    {
+      "damage": 5.0,
+      "enemies": "Small Slimes",
+      "floor": 1.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 5.0,
+      "enemies": "Cultist",
+      "floor": 2.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 1.0,
+      "enemies": "2 Louse",
+      "floor": 3.0,
+      "turns": 2.0
+    },
+    {
+      "damage": 20.0,
+      "enemies": "Lagavulin",
+      "floor": 7.0,
+      "turns": 6.0
+    },
+    {
+      "damage": 12.0,
+      "enemies": "Blue Slaver",
+      "floor": 8.0,
+      "turns": 5.0
+    },
+    {
+      "damage": 0.0,
+      "enemies": "Exordium Wildlife",
+      "floor": 12.0,
+      "turns": 2.0
+    },
+    {
+      "damage": 2.0,
+      "enemies": "Exordium Thugs",
+      "floor": 13.0,
+      "turns": 3.0
+    },
+    {
+      "damage": 25.0,
+      "enemies": "3 Sentries",
+      "floor": 14.0,
+      "turns": 5.0
+    },
+    {
+      "damage": 29.0,
+      "enemies": "The Guardian",
+      "floor": 16.0,
+      "turns": 9.0
+    },
+    {
+      "damage": 10,
+      "enemies": "Chosen",
+      "floor": 18,
+      "turns": 6
+    },
+    {
+      "damage": 23,
+      "enemies": "2 Thieves",
+      "floor": 19,
+      "turns": 4
+    },
+    {
+      "damage": 20,
+      "enemies": "Centurion and Healer",
+      "floor": 20,
+      "turns": 9
+    }
+  ],
   "green": 0,
-  "mystery_machine": 0,
-  "metric_campfire_upgraded": 0,
+  "mystery_machine": 3,
+  "metric_campfire_upgraded": 3,
   "potion_slots": 3,
   "chose_neow_reward": false,
-  "event_seed_count": 0,
-  "metric_relics_obtained": [],
+  "event_seed_count": 2,
+  "metric_relics_obtained": [
+    {
+      "floor": 7.0,
+      "key": "Letter Opener"
+    },
+    {
+      "floor": 14.0,
+      "key": "PreservedInsect"
+    }
+  ],
   "daily_date": 0,
-  "obtained_cards": {},
-  "play_time": 0,
+  "obtained_cards": {
+    "Intimidate": 1,
+    "Limit Break": 3,
+    "Sword Boomerang": 1,
+    "Inflame": 1,
+    "Twin Strike": 1,
+    "Flex": 1,
+    "Thunderclap": 1,
+    "Ghostly Armor": 2,
+    "Shrug It Off": 2,
+    "Rage": 1,
+    "Iron Wave": 1
+  },
+  "play_time": 1250,
   "hand_size": 5,
-  "max_health": 80,
-  "monster_seed_count": 34,
+  "max_health": 72,
+  "monster_seed_count": 68,
   "potions": [
-    "Potion Slot",
+    "FairyPotion",
     "Potion Slot",
     "Potion Slot"
   ]
